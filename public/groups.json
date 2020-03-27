@@ -169,6 +169,9 @@
         },
         {
           "path": "json/HomeEnd.json"
+        },
+        {
+          "path": "json/tap_emulation_mode.json"
         }
       ]
     },
